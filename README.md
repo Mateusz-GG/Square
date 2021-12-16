@@ -2,10 +2,9 @@
 
 To build a Square open console and type the ammount of stars in all sides.
 
-using System;
 
-namespace ConsoleApp1
 {
+
     class Program
     {
         public static void ZbudujPelnaLinie(int dlugosc)
